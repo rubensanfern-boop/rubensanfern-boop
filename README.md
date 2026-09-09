@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there, i'm Rúben👋
+Nowadays, i'm gaining skills from the Master Developer Full-Stack at ConquerBlocks.
+I love building great tools, intuitive interfaces and projects that solve real life problems!
+Always up to learn some new technologie!
 
-<!--
-**rubensanfern-boop/rubensanfern-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### In what i'm working on?:
+🔵Professional Text Editor called > Super Editor.
 
-Here are some ideas to get you started:
+## Tech that i already master:
+🔵 Linux & Terminal
+🔵 Python 
+🔵 Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistics:
+
+![Ruben GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubensanfern-boop&show_icons=true&theme=tokyonight)
+
+
+## 📫Ways of contacting:
+🔵Email: rubensanfern@gmail.com
+🔵LinkedIn: 
+
+
+
+
+
+
