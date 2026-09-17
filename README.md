@@ -10,11 +10,13 @@ Always up to learn some new technologie!
 
 ### 🐍 Programming Languages
 🔵 Python
+🔵 SQL
 
 ### 🛠️ Tools & Version Control
 🔵 Git & GitHub
 🔵 Linux & Terminal
 🔵 VS Code
+🔵 MYSQL workbench
 
 ### 📊 Data & Visualization
 🔵 NumPy
@@ -24,6 +26,8 @@ Always up to learn some new technologie!
 🔵 Web Scrapping
 🔵 regex
 🔵 OS
+🔵 MySQL Workbench
+
 
 
 ### 🖥️ GUI Development
@@ -42,6 +46,7 @@ Always up to learn some new technologie!
 🔵 Decorators
 🔵 Data Structures
 🔵 S.O.L.I.D
+🔵 O.R.M
 
 ## 📊 Statistics:
 
